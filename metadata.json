@@ -1,0 +1,7 @@
+{
+  "name": "QuantRegression - Predicción Financiera a 8 Días",
+  "description": "Plataforma académica y cuantitativa para regresión de activos financieros con Yahoo Finance, métricas de rendimiento con QuantStats y proyección de mercado a 8 días con Scikit-Learn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
